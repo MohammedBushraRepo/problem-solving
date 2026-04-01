@@ -1,0 +1,78 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# Rider
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding (safe to ignore even for console)
+ScaffoldingReadMe.txt
+
+# Publish output
+publish/
+
+# Azure / deployment
+*.PublishSettings
+*.azurePubxml
+*.pubxml
+*.pubxml.user
+
+# Test results
+TestResults/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# JetBrains Rider
+.idea/
+
+# Coverage reports
+coverage/
+*.coverage
+*.coveragexml
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+
+# Dotnet tools
+.dotnet/
+
+# Local secrets (if used)
+secrets.json
